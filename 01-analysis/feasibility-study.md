@@ -1,10 +1,10 @@
 # Feasibility Study
 
-**Project:** Agricultural Problem Analysis and Advisory System
-**Course:** [Course name]
-**Prepared by:** [Your name / team members]
-**Date:** [Date]
-**Version:** 1.0
+Project: Agricultural Problem Analysis and Advisory System
+Course: [Course name]
+repared by: [Your name / team members]
+Date: [Date]
+Version: 1.0
 
 ---
 
